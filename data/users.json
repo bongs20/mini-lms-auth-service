@@ -1,0 +1,26 @@
+[
+  {
+    "id": "usr-dosen01",
+    "username": "dosen_distribusi",
+    "name": "Dr. Dosen Sistem Terdistribusi",
+    "password": "$2a$10$Scg1.n8XrWzszGZ5X/GoVOz0bg1AVeVS.s2hMnw0RCTF5Rh3Blptq",
+    "role": "dosen",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "usr-mhs01",
+    "username": "mahasiswa01",
+    "name": "Budi Santoso",
+    "password": "$2a$10$Scg1.n8XrWzszGZ5X/GoVOz0bg1AVeVS.s2hMnw0RCTF5Rh3Blptq",
+    "role": "mahasiswa",
+    "created_at": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "id": "usr-e8da6e09",
+    "username": "user_1793853083130",
+    "name": "Tester Otomatis",
+    "password": "$2a$10$R.ZYnqK/5Gjx/bbL/7JzLujQ0.TTvDj.BvSnbhWpSM4XGflRDbsFq",
+    "role": "mahasiswa",
+    "created_at": "2026-11-05T04:31:23.240Z"
+  }
+]
